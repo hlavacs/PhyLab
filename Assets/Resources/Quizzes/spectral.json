@@ -1,0 +1,32 @@
+{"Questions": 
+    [
+        {
+            "QuestionText": "Welche Farbe entsteht wenn man Rot und Grün additiv zusammen mischt?",
+            "CorrectAnwer": "Gelb",
+            "WrongAnswers": ["Blau", "Weiß", "gar nichts"],
+            "CorrectReaction": "Richtig! Rot und Grün ergeben bei der additiven Farbmischung Gelb.",
+            "WrongReaction": "Leider falsch! Bei der additiven Farbmischung von Rot und Grün entsteht eine andere Farbe."
+        },
+        {
+            "QuestionText": "Wie wird der Lichtstrahl an der Wölbung eines Hohlspiegels reflektiert?",
+            "CorrectAnwer": "im Einfallswinkel",
+            "WrongAnswers": ["Immer 90 Grad", "gar nicht", "zufällig"],
+            "CorrectReaction": "Richtig! In einem Hohlspiegel wird der Lichtstrahl im gleichen Winkel wie der einfallende Strahl reflektiert.",
+            "WrongReaction": "Leider falsch! In einem Hohlspiegel verhält sich der Lichtstrahl anders."
+        },
+        {
+            "QuestionText": "Welche Strahlung gibt das Funkgerät außer dem sichtbaren Licht noch ab?",
+            "CorrectAnwer": "Radio",
+            "WrongAnswers": ["Röntgen", "Gamma", "Mikrowellen"],
+            "CorrectReaction": "Richtig! Das Funkgerät emittiert Radiowellen.",
+            "WrongReaction": "Leider falsch! Schau dir nochmal genau das Funkgerät im Experiment an."
+        },
+        {
+            "QuestionText": "Bei welchem Spektrum des Lichts sieht man das Skelett des Tieres?",
+            "CorrectAnwer": "Röntgen",
+            "WrongAnswers": ["Gamma", "Radio", "Mikrowellen"],
+            "CorrectReaction": "Richtig! Mit der Röntgenstrahlung kann man das Skelett des Tieres erkennen.",
+            "WrongReaction": "Leider falsch! Schau dir nochmal genau das Experiment an."
+        }
+    ]
+}

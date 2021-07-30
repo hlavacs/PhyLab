@@ -1,0 +1,32 @@
+{"Questions": 
+    [
+        {
+            "QuestionText": "Welche Strahlung hat das höchste Durchdringungsvermögen?",
+            "CorrectAnwer": "Gammastrahlung",
+            "WrongAnswers": ["Alphastrahlung", "Betastrahlung", "alle gleich"],
+            "CorrectReaction": "Richtig! Die Gammastrahlung hat ein höheres Durchdringungsvermögen als die Beta- und Alphastrahlung.",
+            "WrongReaction": "Leider falsch! Eine andere Strahlung hat mehr Durchdringungsvermögen als die anderen."
+        },
+        {
+            "QuestionText": "Der radioaktive Zerfall eines Elements wird wodurch angegeben?",
+            "CorrectAnwer": "Halbwertszeit",
+            "WrongAnswers": ["Pausenzeit", "Zerfallbarkeit", "gar nicht"],
+            "CorrectReaction": "Richtig! Die Halbwertszeit ist die Zeitspanne in der die Aktivität durch den Zerfall auf die Hälfte gesunken ist.",
+            "WrongReaction": "Leider falsch! Der radioaktive Zerfall wird mit einem anderen Wert angegeben."
+        },
+        {
+            "QuestionText": "Welche Strahlen kann selbst Blei nicht aufhalten?",
+            "CorrectAnwer": "Neutronen",
+            "WrongAnswers": ["Alpha", "Beta", "Gamma"],
+            "CorrectReaction": "Richtig! Neutronenstrahlen können Blei durchdringen.",
+            "WrongReaction": "Leider falsch! Schau dir das Experiment nochmal genau an."
+        },
+        {
+            "QuestionText": "Durch welchen Stoff dringen Betastrahlen einfach durch?",
+            "CorrectAnwer": "Papier",
+            "WrongAnswers": ["Blei", "Aluminium", "gar keinen"],
+            "CorrectReaction": "Richtig! Betastrahlen können Papier durchdringen.",
+            "WrongReaction": "Leider falsch! Schau dir das Experiment nochmal genau an."
+        }
+    ]
+}

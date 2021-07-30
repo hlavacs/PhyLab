@@ -1,0 +1,32 @@
+{"Questions": 
+    [
+        {
+            "QuestionText": "Ab wieviel Grad Celsius beginnt das Wasser zu kochen?",
+            "CorrectAnwer": "100",
+            "WrongAnswers": ["42", "0", "80"],
+            "CorrectReaction": "Richtig! Wasser beginnt ab 100 Grad Celsius zu kochen.",
+            "WrongReaction": "Leider falsch! Versuch doch mal verschiedene Grade im Experiment einzustellen."
+        },
+        {
+            "QuestionText": "Wo liegt der absolute Null-Punkt?",
+            "CorrectAnwer": "-273,15° Celsius",
+            "WrongAnswers": ["-100° Celsius", "0° Celsius", "-40° Celsius"],
+            "CorrectReaction": "Richtig! Der absolute Null-Punkt liegt bei -273,15° Celsius.",
+            "WrongReaction": "Leider falsch! Schau wie tief die Temperatur im Experiment sinken kann."
+        },
+        {
+            "QuestionText": "Wann beginnt das Eis im Experiment zu schmelzen?",
+            "CorrectAnwer": "ab 273,15 Kelvin",
+            "WrongAnswers": ["ab 0 Kelvin", "ab 100 Kelvin", "ab 24 Kelvin"],
+            "CorrectReaction": "Richtig! Ab 273,15 Kelvin oder 0° Celsius beginnt das Eis zu schmelzen.",
+            "WrongReaction": "Leider falsch! Schau im Experiment ab wann das Eis beginnt zu schmelzen."
+        },
+        {
+            "QuestionText": "Welche Temperatur ist höher: 300 Kelvin oder 40° Celsius?",
+            "CorrectAnwer": "40° Celsius",
+            "WrongAnswers": ["300 Kelvin", "beide sind gleich", "weiß nicht"],
+            "CorrectReaction": "Richtig! 40° Celsius sind genau gerechnet 313,15 Kelvin.",
+            "WrongReaction": "Leider falsch! Versuch doch mal die Temperatur im Experiment einzustellen."
+        }
+    ]
+}

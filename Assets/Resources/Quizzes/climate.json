@@ -1,0 +1,32 @@
+{"Questions": 
+    [
+        {
+            "QuestionText": "Wenn wir weiter nur Kohlekraftwerke bauen schmelzen die Gletscher?",
+            "CorrectAnwer": "Ja",
+            "WrongAnswers": ["Nein", "Weiß nicht", "Mir egal"],
+            "CorrectReaction": "Richtig! Die Gletscher schmelzen durch die Erderwärmung.",
+            "WrongReaction": "Leider falsch! Schau nach was im Experiment passiert."
+        },
+        {
+            "QuestionText": "Welche Energiegewinnung ist am klimafreundlichsten?",
+            "CorrectAnwer": "Windrad",
+            "WrongAnswers": ["Kohlekraftwerk", "Ölkraftwerk", "Erdgaskraftwerk"],
+            "CorrectReaction": "Richtig! Windräder sind eine erneuerbare Energiequelle.",
+            "WrongReaction": "Leider falsch! Vielleicht hilft dir das Experiment?"
+        },
+        {
+            "QuestionText": "Was ist keine erneuerbare Energiequelle?",
+            "CorrectAnwer": "Erdöl",
+            "WrongAnswers": ["Sonne", "Wasser", "Wind"],
+            "CorrectReaction": "Richtig! Erdöl ist als fossiler Energieträger begrenzt.",
+            "WrongReaction": "Leider falsch! Überlege nochmal genau welche Energien erneuerbar sind."
+        },
+        {
+            "QuestionText": "Wie kann man dem CO2 Überschuss entgegen wirken?",
+            "CorrectAnwer": "Mehr Bäume",
+            "WrongAnswers": ["Weniger Bäume", "Mehr Kraftwerke", "Mehr Autos"],
+            "CorrectReaction": "Richtig! Bäume nehmen CO2 und andere Treibhausgase auf.",
+            "WrongReaction": "Leider falsch! Vielleicht hilft dir das Experiment?"
+        }
+    ]
+}

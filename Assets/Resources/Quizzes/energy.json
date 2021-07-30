@@ -1,0 +1,32 @@
+{"Questions": 
+    [
+        {
+            "QuestionText": "Wann ist die potentielle Energie im Experiment am höchsten? Wenn das Fahrzeug...",
+            "CorrectAnwer": "oben ist.",
+            "WrongAnswers": ["unten ist.", "links ist.", "rechts ist."],
+            "CorrectReaction": "Richtig! Die potentielle Energie ist im Experiment am höchsten wenn das Fahrzeug oben ist.",
+            "WrongReaction": "Leider falsch! Schau dir nochmal genau an wann im Experiment die potentielle Energie am höchsten ist."
+        },
+        {
+            "QuestionText": "Wann ist die kinetische Energie im Experiment am höchsten? Wenn das Fahrzeug...",
+            "CorrectAnwer": "unten ist.",
+            "WrongAnswers": ["oben ist.", "links ist.", "rechts ist."],
+            "CorrectReaction": "Richtig! Die kinetische Energie ist im Experiment am höchsten wenn das Fahrzeug unten ist.",
+            "WrongReaction": "Leider falsch! Schau dir nochmal genau an wann im Experiment die kinetische Energie am höchsten ist."
+        },
+        {
+            "QuestionText": "Wann ist die kinetische und die potentielle Energie im Experiment gleich groß?",
+            "CorrectAnwer": "bei ca. 1/4 der Strecke",
+            "WrongAnswers": ["niemals", "ganz unten", "ganz oben"],
+            "CorrectReaction": "Richtig! Kurz nach dem Start oder vor dem Ende der Strecke ist die kinetische und die potentielle Energie im Experiment gleich groß.",
+            "WrongReaction": "Leider falsch! Beobachte genau wann die kinetische und die potentielle Energie im Experiment gleich groß sind."
+        },
+        {
+            "QuestionText": "Ist die Energie im Experiment abhängig von der Masse?",
+            "CorrectAnwer": "ja",
+            "WrongAnswers": ["nein", "nur die potentielle", "nur die kinetische"],
+            "CorrectReaction": "Richtig! Sowohl die kinetische und die potentielle Energie sind abhängig von der Masse.",
+            "WrongReaction": "Leider falsch! Vergleiche die unterschiedlichen Fahrzeuge miteinander. Fällt dir etwas auf?"
+        }
+    ]
+}

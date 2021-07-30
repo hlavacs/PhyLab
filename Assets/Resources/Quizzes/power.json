@@ -1,0 +1,32 @@
+{"Questions": 
+    [
+        {
+            "QuestionText": "Wie wird die Stromstärke gemessen?",
+            "CorrectAnwer": "in Ampere",
+            "WrongAnswers": ["in Volt", "in Newton", "in Kilogramm"],
+            "CorrectReaction": "Richtig! Die Stromstärke wird in Ampere gemessen.",
+            "WrongReaction": "Leider falsch! Die Stromstärke wird in einer anderen Einheit gemessen."
+        },
+        {
+            "QuestionText": "Welche dieser Antworten bezeichnet keine Stromart?",
+            "CorrectAnwer": "Superstrom",
+            "WrongAnswers": ["Gleichstrom", "Wechselstrom", "Mischstrom"],
+            "CorrectReaction": "Richtig! Superstrom ist ein erfundenes Wort.",
+            "WrongReaction": "Leider falsch! Diese Stromart gibt es."
+        },
+        {
+            "QuestionText": "Wenn bei der parallelen Schaltung eine Lampe kaputt ist, leuchtet?",
+            "CorrectAnwer": "die gute Lampe",
+            "WrongAnswers": ["beide Lampen", "der Schalter", "keine Lampe"],
+            "CorrectReaction": "Richtig! In der parallelen Schaltung wird die gute Lampe nicht beeinflusst von der kaputten.",
+            "WrongReaction": "Leider falsch! Schau dir nochmal genau das Experiment mit der parallelen Schaltung an."
+        },
+        {
+            "QuestionText": "Wenn bei der seriellen Schaltung eine Lampe kaputt ist, leuchtet?",
+            "CorrectAnwer": "keine Lampe",
+            "WrongAnswers": ["beide Lampen", "der Schalter", "die gute Lampe"],
+            "CorrectReaction": "Richtig! In der seriellen Schaltung leuchtet nichts mehr wenn eine Lampe kaputt ist.",
+            "WrongReaction": "Leider falsch! Schau dir nochmal genau das Experiment mit der seriellen Schaltung an."
+        }
+    ]
+}

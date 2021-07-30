@@ -1,0 +1,32 @@
+{"Questions": 
+    [
+        {
+            "QuestionText": "Welche Ladung haben Elektronen?",
+            "CorrectAnwer": "negativ",
+            "WrongAnswers": ["positiv", "neutral", "keine"],
+            "CorrectReaction": "Richtig! Elektronen haben eine negative Ladung.",
+            "WrongReaction": "Leider falsch! Elektronen haben eine andere Ladung."
+        },
+        {
+            "QuestionText": "Was machen zwei positive Ladungen miteinander?",
+            "CorrectAnwer": "stoßen einander ab",
+            "WrongAnswers": ["ziehen einander an", "verschmelzen", "ignorieren sich"],
+            "CorrectReaction": "Richtig! Zwei positive Ladungen stoßen einander ab.",
+            "WrongReaction": "Leider falsch! Zwei positive Ladungen verhalten sich anders zueinander."
+        },
+        {
+            "QuestionText": "Was passiert mit dem Wasserstrahl, wenn zum Plastikstab gleich viele Protonen und Elektronen hinzugefügt werden?",
+            "CorrectAnwer": "nichts",
+            "WrongAnswers": ["zieht nach links", "zieht nach rechts", "rotiert"],
+            "CorrectReaction": "Richtig! Wenn die Ladung des Plastikstabs ausgeglichen ist ändert sich nichts am Wasserstrahl.",
+            "WrongReaction": "Leider falsch! Beobachte nochmal genau am Experiment wie sich der Wasserstrahl ändert."
+        },
+        {
+            "QuestionText": "Wie beeinflusst ein Elektronenüberschuss im Plastikstab den Wasserstrahl?",
+            "CorrectAnwer": "anziehend",
+            "WrongAnswers": ["abstoßend", "gar nicht", "gefrierend"],
+            "CorrectReaction": "Richtig! Wenn die Ladung des Plastikstabs negativ ist wird der Wasserstrahl angezogen.",
+            "WrongReaction": "Leider falsch! Beobachte nochmal genau am Experiment wie sich der Wasserstrahl verhält."
+        }
+    ]
+}

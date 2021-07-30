@@ -1,0 +1,32 @@
+{"Questions": 
+    [
+        {
+            "QuestionText": "In welcher Einheit wird die elektrische Spannung angegeben?",
+            "CorrectAnwer": "Volt",
+            "WrongAnswers": ["Watt", "Widerstand", "Ampere"],
+            "CorrectReaction": "Richtig! Die elektrische Spannung wird in Volt angegeben.",
+            "WrongReaction": "Leider falsch! Elektrische Spannung wird in einer anderen Einheit angegeben."
+        },
+        {
+            "QuestionText": "Wie lautet das Formelzeichen für die elektrische Spannung?",
+            "CorrectAnwer": "U",
+            "WrongAnswers": ["R", "P", "I"],
+            "CorrectReaction": "Richtig! Das Formelzeichen für die elektrische Spannung lautet U.",
+            "WrongReaction": "Leider falsch! Elektrische Spannung wird mit einem anderen Formelzeichen angegeben."
+        },
+        {
+            "QuestionText": "Wann fließt im Experiment am meisten Strom? Wenn beide Stoffe an den Elektroden ... sind.",
+            "CorrectAnwer": "unterschiedlich edel",
+            "WrongAnswers": ["gleich", "edel", "unedel"],
+            "CorrectReaction": "Richtig! Wenn eine Elektrode edel und eine unedel ist fließt in der Galvanischen Zelle am meisten Strom.",
+            "WrongReaction": "Leider falsch! Probiere die verschiedenen Kombinationsmöglichkeiten im Experiment aus. Fällt dir auf wann die Nadel am stärksten ausschlägt?"
+        },
+        {
+            "QuestionText": "Wann fließt im Experiment gar kein Strom? Wenn beide Stoffe an den Elektroden ... sind.",
+            "CorrectAnwer": "gleich",
+            "WrongAnswers": ["unterschiedlich und edel", "unterschiedlich und unedel", "unterschiedlich edel und unedel"],
+            "CorrectReaction": "Richtig! Wenn beide Stoffe an den Elektroden gleich sind fließt in der Galvanischen Zelle gar kein Strom!",
+            "WrongReaction": "Leider falsch! Probiere die verschiedenen Kombinationsmöglichkeiten im Experiment aus. Fällt dir auf wann die Nadel ganz links stehen bleibt?"
+        }
+    ]
+}

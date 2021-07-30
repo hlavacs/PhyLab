@@ -1,0 +1,32 @@
+{"Questions": 
+    [
+        {
+            "QuestionText": "Liegen zwei Leiter mit gleicher Stromrichtung nebeneinander,...",
+            "CorrectAnwer": "ziehen sie sich an",
+            "WrongAnswers": ["stoßen sie sich ab", "verbinden sie sich", "reagieren sie nicht"],
+            "CorrectReaction": "Richtig! Mit gleicher Stromrichtung ziehen sie sich an.",
+            "WrongReaction": "Leider falsch! Teste es doch mal am Experiment."
+        },
+        {
+            "QuestionText": "Liegen zwei Leiter mit unterschiedlicher Stromrichtung nebeneinander,...",
+            "CorrectAnwer": "stoßen sie sich ab",
+            "WrongAnswers": ["ziehen sie sich an", "verbinden sie sich", "reagieren sie nicht"],
+            "CorrectReaction": "Richtig! Mit unterschiedlicher Stromrichtung stoßen sie sich ab.",
+            "WrongReaction": "Leider falsch! Teste es doch mal am Experiment."
+        },
+        {
+            "QuestionText": "Der Spannungsstoss in der Induktionsspule ... mit mehr Windungen. ",
+            "CorrectAnwer": "wird größer",
+            "WrongAnswers": ["wird kleiner", "bleibt gleich", "wird 0"],
+            "CorrectReaction": "Richtig! Je mehr Windungen desto größer der Spannungsstoss in der Induktionsspule.",
+            "WrongReaction": "Leider falsch! Schau genau im Experiment wodurch der Spannungsstoss sich verändert."
+        },
+        {
+            "QuestionText": "Wie lautet das Formelzeichen für die elektrische Induktivität?",
+            "CorrectAnwer": "L",
+            "WrongAnswers": ["R", "U", "I"],
+            "CorrectReaction": "Richtig! Das Formelzeichen für die elektrische Induktivität lautet L.",
+            "WrongReaction": "Leider falsch! Elektrische Induktivität wird mit einem anderen Formelzeichen angegeben."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{"Questions": 
+    [
+        {
+            "QuestionText": "Wie wirkt die Gravitation?",
+            "CorrectAnwer": "anziehend",
+            "WrongAnswers": ["abstoßend", "abstoßend und anziehend", "gar nicht"],
+            "CorrectReaction": "Richtig! Die Gravitation wirkt immer anziehend.",
+            "WrongReaction": "Leider falsch! So wirkt die Kraft der Gravitation nicht."
+        },
+        {
+            "QuestionText": "Mit zunehmender Masse eines Körper wird die Gravitation?",
+            "CorrectAnwer": "stärker",
+            "WrongAnswers": ["schwächer", "unverändert", "negativ"],
+            "CorrectReaction": "Richtig! Je größer die Masse desto stärker die Gravitation.",
+            "WrongReaction": "Leider falsch! Die Gravitation verhält sich anders bei zunehmender Masse."
+        },
+        {
+            "QuestionText": "Wie hoch ist die Gravitation am Mond im Vergleich zur Erde?",
+            "CorrectAnwer": "ca. ein Sechstel",
+            "WrongAnswers": ["doppelt so hoch", "ca. ein Zehntel", "gleich"],
+            "CorrectReaction": "Richtig! m Mond beträgt die Gravitation nur ein Sechstel der Gravitation auf der Erde.",
+            "WrongReaction": "Leider falsch! Schau dir nochmal genau das Experiment an wie sich die Masse auf der Erde und am Mond verhält."
+        },
+        {
+            "QuestionText": "Wie hoch ist die Gravitation am Mars im Vergleich zur Erde?",
+            "CorrectAnwer": "ca. 38%",
+            "WrongAnswers": ["doppelt so hoch", "ca. 10%", "gleich"],
+            "CorrectReaction": "Richtig! Am Mars beträgt die Gravitation nur 38% der Gravitation auf der Erde.",
+            "WrongReaction": "Leider falsch! Schau dir nochmal genau das Experiment an wie sich die Masse auf der Erde und am Mars verhält."
+        }
+    ]
+}
